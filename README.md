@@ -1,2 +1,1 @@
-# AndroidCamera2API
-A simple camera demo to implement preview and capture with Android Camera2 interface
+# A simple camera demo to implement preview frames and capture photos with Android Camera2 interface
